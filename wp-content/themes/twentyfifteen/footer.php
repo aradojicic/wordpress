@@ -27,7 +27,7 @@
 	</footer><!-- .site-footer -->
 
 </div><!-- .site -->
-
+<h1>Hello</h1>
 <?php wp_footer(); ?>
 
 </body>
